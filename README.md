@@ -28,7 +28,7 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
 -> Instalacion:
 ```
 // Actualizar el termux
- - apt update && apt upgrade -y
+ - https://github.com/Juanchavira78/Sdominios
 
 // Instalar python3 (solo en caso de no tenerlo instalado )
  - pkg install python3 --upgrade
@@ -37,7 +37,7 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
  - git clone https://github.com/Lanniscaf/cctools.git
 
 // Ingresar al proyecto
- - cd cctools/
+ - cd sdominios69/
 
 // Instalar las dependencias necesarias:
  - pip install -r requirements.txt
